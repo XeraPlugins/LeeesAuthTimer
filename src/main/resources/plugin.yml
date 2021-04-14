@@ -1,0 +1,4 @@
+name: LeeesAuthTimer
+version: ${project.version}
+main: Leees.Auth.Timer.Main
+description: Auth timer for cracked servers

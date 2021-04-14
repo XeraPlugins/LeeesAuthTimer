@@ -1,0 +1,6 @@
+#LeeesAuthTimer Ver 1.0
+Config:
+  #in seconds
+  CounterStartTime: 60
+  #hotbar message
+  HotBarMessage: "&6&lPlease login or register to play &b&l7b&3&l7t &c&l%timeleft%"
